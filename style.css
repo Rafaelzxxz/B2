@@ -45,13 +45,12 @@ text-align: center
 
 .b{
   border: 10px solid #ff8800;
-  background:#ffeac2
-  
+  background:#ffeac2;  
 }
 
 .o{
   border: 10px solid #feb058;
-  background:#ffeac2
+  background:#ffeac2;
 }
 
 
@@ -59,18 +58,16 @@ text-align: center
   display: grid;
   grid: 150px / auto auto auto;
   grid-gap: 50px;
-  padding: 10px;
 }
 
 .grid-container > div {
-  text-align: center;
-  padding: 20px 0;
-  font-size: 25px;
+  text-align: left;
+  padding: 00px;
+  font-size: 19px;
 }
 
 .grid-container > h1 {
   text-align: center;
-  padding: 20px 0;
   font-size: 30px;
 }
 
@@ -79,5 +76,4 @@ img{
   width: 150px;
   height: 150px
 }
-
 

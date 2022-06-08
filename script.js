@@ -1,0 +1,1 @@
+"javascript usado na pagina de suporte"
